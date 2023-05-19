@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.wrap1 {
+    width: 960px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blue {
+    background: #1e76c3;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.wrap2 {
+    width: 960px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.red {
+    background: #d43737;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 10px;
+}
